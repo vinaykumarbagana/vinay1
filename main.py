@@ -1,0 +1,1 @@
+iam telling how to create git and how to use in real time
